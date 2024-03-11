@@ -7,7 +7,6 @@
     padding-left: 5%;
     padding-right: 5%;
     grid-row-gap: 20px;
-    /* border: 1px solid red; */
     
   }
 
@@ -33,7 +32,6 @@
 .card p{
     text-align: left;
     margin-left: 5px;
-    /* margin-bottom: 10px; */
 
 }
 .rate-container{
@@ -50,5 +48,4 @@
 }
 .price span{
     margin: 5px;
-    /* text-decoration: line-through; */
 }
