@@ -9,7 +9,7 @@ export default function Apparels() {
             <p className='Selection'>Add to your selection</p>
           </div>
           <div className="features">
-            <p>Latest</p>
+          <p className="latest">Latest</p>
             <p>Featured</p>
             <p>Special</p>
           </div>

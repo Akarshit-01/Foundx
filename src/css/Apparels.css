@@ -6,12 +6,13 @@
     padding-left: 5%;
     padding-right: 5%;
     display:grid;
+    margin-top: 5%;
     grid-template-columns: 10% 40% 25%;
 }
 
 .Apparels, .Selection {
     display: inline-block;
-    vertical-align: middle; /* Align elements vertically */
+    vertical-align: middle; 
     margin: 0;    
     text-align: left;
 }
@@ -21,13 +22,14 @@
     line-height: 1; 
     font-size: 12PX;
     text-align: left;
-    /* This site can’t be reached */
     vertical-align: middle;
 }
 .Apparels{
     vertical-align: middle;
     margin-right: 10px;
-    
+}
+.features p.latest {
+  color: #0063F5; 
 }
 
   .features{

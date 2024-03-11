@@ -1,33 +1,10 @@
-/* .Discover-main{
-    display: grid;
-    grid-template-columns: repeat(5 1fr);
-    width: 60px;
-    height: 20px;
-} */
-/* .Discover{
-    text-align: left;
-    margin-left:7%;
-    border: 1px solid black;
-    margin-right: 60%; */
-/* } */
-/* .Arrow1{
-    width: 60px;
-    height: 20px;
-    border: 1px solid black;
-    margin-left: 80%;
-    
-
-    
-} */
 .Discover-main{
     display:grid;
     grid-template-columns: 40% 40% ;
     justify-content: space-between;
     align-items: center;
     padding-left: 5%;
-    padding-right: 5%;
-    /* border: 1px solid black; */
-    
+    padding-right: 5%; 
 }
 .Discover{
         vertical-align: middle;

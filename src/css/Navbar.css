@@ -5,6 +5,12 @@
     align-items: center;
     padding-left: 5%;
     padding-right: 5%;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.menus-link p.menusTitle {
+    font-size: 20px;
+    text-decoration: none;
+    color: #01B1B1; /* Change color to blue */
 }
 .logo1 img{
     width: 100%;
