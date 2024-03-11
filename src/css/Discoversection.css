@@ -1,0 +1,47 @@
+/* .Discover-main{
+    display: grid;
+    grid-template-columns: repeat(5 1fr);
+    width: 60px;
+    height: 20px;
+} */
+/* .Discover{
+    text-align: left;
+    margin-left:7%;
+    border: 1px solid black;
+    margin-right: 60%; */
+/* } */
+/* .Arrow1{
+    width: 60px;
+    height: 20px;
+    border: 1px solid black;
+    margin-left: 80%;
+    
+
+    
+} */
+.Discover-main{
+    display:grid;
+    grid-template-columns: 40% 40% ;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 5%;
+    padding-right: 5%;
+    /* border: 1px solid black; */
+    
+}
+.Discover{
+        vertical-align: middle;
+        margin-right: 10px;
+}
+.Arrow1{
+    display: grid;
+    grid-template-columns: 5 1fr;
+    width: 10%;
+    height: 10%;
+    position: relative;
+    top: 40px;
+    justify-content: space-between;
+    margin-bottom: 90px;
+    margin-left: 60%;
+
+  }

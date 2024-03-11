@@ -1,0 +1,57 @@
+.Apparel-main{
+    display:grid;
+    grid-template-columns: 10% 40% 40%;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 5%;
+    padding-right: 5%;
+    display:grid;
+    grid-template-columns: 10% 40% 25%;
+}
+
+.Apparels, .Selection {
+    display: inline-block;
+    vertical-align: middle; /* Align elements vertically */
+    margin: 0;    
+    text-align: left;
+}
+.Selection {
+    text-align: left;
+    margin-left: 20px; 
+    line-height: 1; 
+    font-size: 12PX;
+    text-align: left;
+    /* This site can’t be reached */
+    vertical-align: middle;
+}
+.Apparels{
+    vertical-align: middle;
+    margin-right: 10px;
+    
+}
+
+  .features{
+    display: flex;
+    grid-template-columns: 5 1fr;
+    gap: 40px;
+    font-family: 'Inter';
+    justify-content: center;
+    align-items: center;
+    color: black;
+    margin-left: 20%;
+
+   
+  }
+  .Arrow{
+    display: grid;
+    grid-template-columns: 5 1fr;
+    width: 15%;
+    height: 15%;
+    position: relative;
+    top: 50px;
+    justify-content: space-between;
+    margin-bottom: 90px;
+    margin-left: 100px;
+
+  }
+
